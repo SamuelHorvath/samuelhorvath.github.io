@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sebastian Stich | Samuel Horvath</title>
+    <link>https://samuelhorvath.github.io/author/sebastian-stich/</link>
+      <atom:link href="https://samuelhorvath.github.io/author/sebastian-stich/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sebastian Stich</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://samuelhorvath.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Sebastian Stich</title>
+      <link>https://samuelhorvath.github.io/author/sebastian-stich/</link>
+    </image>
+    
+    <item>
+      <title>Stochastic Distributed Learning with Gradient Quantization and Variance Reduction</title>
+      <link>https://samuelhorvath.github.io/publication/diana2/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/publication/diana2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
