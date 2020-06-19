@@ -5,118 +5,59 @@
     <link>https://samuelhorvath.github.io/author/samuel-horvath/</link>
       <atom:link href="https://samuelhorvath.github.io/author/samuel-horvath/index.xml" rel="self" type="application/rss+xml" />
     <description>Samuel Horvath</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://samuelhorvath.github.io/author/samuel-horvath/avatar_hu92a1891b6d65d6c935723c3a7f40b788_113120_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://samuelhorvath.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Samuel Horvath</title>
       <link>https://samuelhorvath.github.io/author/samuel-horvath/</link>
     </image>
     
     <item>
-      <title>Summer Schools 2020</title>
-      <link>https://samuelhorvath.github.io/post/mlss_2020/</link>
-      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/post/mlss_2020/</guid>
-      <description>&lt;p&gt;I have been accepted to two Machine Learning Summer Schools. 
-&lt;a href=&#34;http://mlss.tuebingen.mpg.de/2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLSS Tuebingen&lt;/a&gt; takes place from 28. June to 10. July (acceptance rate 130/1800+) and 
-&lt;a href=&#34;https://telkomuniversity.ac.id/en/event/machnine-learning-summer-scool-indonesia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLSS Indonesia&lt;/a&gt; from 3. to 9. August.&lt;/p&gt;
-</description>
+      <title>On Biased Compression for Distributed Learning</title>
+      <link>https://samuelhorvath.github.io/publication/biased_compression/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/publication/biased_compression/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Attending ALT 2020</title>
-      <link>https://samuelhorvath.github.io/post/alt_2020_conf/</link>
-      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/post/alt_2020_conf/</guid>
-      <description>&lt;p&gt;I attended The 31st International Conference on Algorithmic Learning Theory in San Diego. I presented our accepted paper 
-&lt;a href=&#34;http://alt2020.algorithmiclearningtheory.org/accepted-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SVRG and Katyusha are Better without the Outer Loop&lt;/strong&gt;&lt;/a&gt; as 20 minutes talk.&lt;/p&gt;
-</description>
+      <title>Adaptivity of Stochastic Gradient Methods for Nonconvex Optimization</title>
+      <link>https://samuelhorvath.github.io/publication/sc_sarah/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/publication/sc_sarah/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>ICCOPT 2019</title>
-      <link>https://samuelhorvath.github.io/post/iccopt_2019/</link>
-      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/post/iccopt_2019/</guid>
-      <description>&lt;p&gt;I attended 
-&lt;a href=&#34;https://iccopt2019.berlin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICCOPT 2019&lt;/a&gt;, the Sixth International Conference on Continuous Optimization, which took place on the campus of the Technical University (TU) of Berlin, August 3-8, 2019. The ICCOPT is a flagship conference of the Mathematical Optimization Society (MOS), organized every three years. I organized a minisymposia together with 
-&lt;a href=&#34;fhanzely.github.io&#34;&gt;Filip Hanzely&lt;/a&gt; there and gave a talk about our work 
-&lt;a href=&#34;https://samuelhorvath.github.io/post/new_paper_out_quant_var/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Stochastic Distributed Learning with Gradient Quantization and Variance Reduction&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Natural Compression for Distributed Deep Learning</title>
+      <link>https://samuelhorvath.github.io/publication/intml/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/publication/intml/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Amazon Research Internship</title>
-      <link>https://samuelhorvath.github.io/post/amazon/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/post/amazon/</guid>
-      <description>&lt;p&gt;I have joined &lt;strong&gt;Amazon&lt;/strong&gt; as Applied Scientist Intern for Summer 2019. I am part of AI Core Team supervised by Cedric Archambeau and Matthias Seeger.&lt;/p&gt;
-&lt;h3 id=&#34;update&#34;&gt;&lt;strong&gt;UPDATE&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;I finished my internship. While being at Amazon, I had pleasure to attend &lt;strong&gt;Amazon EMEA Research Internship Colloquium&lt;/strong&gt;, the conference for all of Amazon interns from EMEA region, where I presented a poster based on our paper 
-&lt;a href=&#34;https://samuelhorvath.github.io/post/new_paper_out_intml/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Natural Compression for Distributed Deep Learning&lt;/strong&gt;&lt;/a&gt;. In addition, I attended &lt;strong&gt;Amazon Research Days&lt;/strong&gt;, the conference focused on promoting the collaboration with academia. In terms of research, I was working on scalable transfer learning for hyperparameter optimization, closely working with &lt;strong&gt;Cedric Archambeau&lt;/strong&gt;, &lt;strong&gt;Aaron Klein&lt;/strong&gt;, and &lt;strong&gt;Valerio Perrone&lt;/strong&gt;. I hope our work will be available online soon.&lt;/p&gt;
-</description>
+      <title>Nonconvex Variance Reduced Optimization with Arbitrary Sampling</title>
+      <link>https://samuelhorvath.github.io/publication/non_unif/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/publication/non_unif/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Attending ICML 2019</title>
-      <link>https://samuelhorvath.github.io/post/icml_2019_conf/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/post/icml_2019_conf/</guid>
-      <description>&lt;p&gt;I attended Thirty-sixth International Conference on Machine Learning, where we had our work 
-&lt;a href=&#34;http://proceedings.mlr.press/v97/horvath19a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Nonconvex Variance Reduced Optimization with Arbitrary Sampling&lt;/strong&gt;&lt;/a&gt; accepted, which I presented as the 5 min talk as well as the poster.&lt;/p&gt;
-</description>
+      <title>Stochastic Distributed Learning with Gradient Quantization and Variance Reduction</title>
+      <link>https://samuelhorvath.github.io/publication/diana2/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/publication/diana2/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Berkeley Research Visit</title>
-      <link>https://samuelhorvath.github.io/post/berkeley/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/post/berkeley/</guid>
-      <description>&lt;p&gt;I am at Berkeley, where I am visiting 
-&lt;a href=&#34;https://people.eecs.berkeley.edu/~jordan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Michael I. Jordan&lt;/strong&gt;&lt;/a&gt;. I will stay here for a month and then I am going to Los Angeles to attend ICML, where I will present our 
-&lt;a href=&#34;https://samuelhorvath.github.io/post/icml_2019_paper&#34;&gt;work&lt;/a&gt;. During my stay at Berkeley, I will also attend 
-&lt;a href=&#34;https://simons.berkeley.edu/programs/dl2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning Bootcamp&lt;/a&gt; at 
-&lt;a href=&#34;https://simons.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simons Institute&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Deep Learning Nanodegree</title>
-      <link>https://samuelhorvath.github.io/post/udacity/</link>
-      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/post/udacity/</guid>
-      <description>&lt;p&gt;After 3 months, I finished all five projects of  
-&lt;a href=&#34;https://udacity.com/course/deep-learning-nanodegree-foundation--nd101&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning Nanodegree&lt;/a&gt; consisting of Neural Nets, CNN, RNN, GANs and  Deep Reinforcement Learning. This course is taught by well-known AI experts such as Sebastian Thrun, Ian Goodfellow and Andrew Trask.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Data Science Summer School Paris</title>
-      <link>https://samuelhorvath.github.io/post/dss_2018/</link>
-      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/post/dss_2018/</guid>
-      <description>&lt;p&gt;I am attending 
-&lt;a href=&#34;http://www.ds3-datascience-polytechnique.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Data Science Summer School&lt;/strong&gt;&lt;/a&gt; in Paris at  École Polytechnique. I will present there poster with title 
-&lt;a href=&#34;http://www.ds3-datascience-polytechnique.fr/wp-content/uploads/2018/06/DS3-342.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Nonconvex Variance Reduced Optimization with Arbitrary Sampling&lt;/strong&gt;&lt;/a&gt;, which is based on a paper of the same title, joint work with my supervisor 
-&lt;a href=&#34;http://www.maths.ed.ac.uk/~prichtar/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peter Richtárik&lt;/a&gt;, and currently under review.&lt;/p&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Update
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;My poster was awarded as  
-&lt;a href=&#34;http://www.ds3-datascience-polytechnique.fr/posters/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;$\text{the Best DS}^3\text{poster}$&lt;/strong&gt;&lt;/a&gt; with $500$ Euros cash prize. Only &lt;strong&gt;2&lt;/strong&gt; posters out of total &lt;strong&gt;170&lt;/strong&gt; were awarded!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Exponea AI Internship</title>
-      <link>https://samuelhorvath.github.io/post/exponea/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/post/exponea/</guid>
-      <description>&lt;p&gt;I am joining 
-&lt;a href=&#34;https://exponea.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exponea&lt;/a&gt; as AI Intern for Summer 2018. I will join their Recommendation Team, where I will work on Sorting and Ranking Project for personalized recommendation for e-commerce.&lt;/p&gt;
-</description>
+      <title>Don’t Jump Through Hoops and Remove Those Loops: SVRG and Katyusha are Better Without the Outer Loop</title>
+      <link>https://samuelhorvath.github.io/publication/stupid/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/publication/stupid/</guid>
+      <description></description>
     </item>
     
   </channel>
