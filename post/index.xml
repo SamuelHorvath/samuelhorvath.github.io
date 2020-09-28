@@ -5,12 +5,50 @@
     <link>https://samuelhorvath.github.io/post/</link>
       <atom:link href="https://samuelhorvath.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Samuel Horvath</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Samuel Horvath</copyright><lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://samuelhorvath.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://samuelhorvath.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>One paper accepted to NeurIPS 2020</title>
+      <link>https://samuelhorvath.github.io/post/neurips2020accepted/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/neurips2020accepted/</guid>
+      <description>&lt;p&gt;Our paper 
+&lt;a href=&#34;https://arxiv.org/pdf/1809.04146.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Lower Bounds and Optimal Algorithms for Personalized Federated Learning&lt;/strong&gt;&lt;/a&gt;, joint work with 
+&lt;a href=&#34;https://fhanzely.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Filip Hanzely&lt;/strong&gt;&lt;/a&gt;, 
+&lt;a href=&#34;https://slavomirhanzely.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Slavomir Hanzely&lt;/strong&gt;&lt;/a&gt;,and 
+&lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;, got accepted to the NeurIPS 2019. This year conference is online this year and it takes place from 6th to 12th December 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Samsung AI Centre Cambridge Internship</title>
+      <link>https://samuelhorvath.github.io/post/samsung/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/samsung/</guid>
+      <description>&lt;p&gt;I have joined &lt;strong&gt;Samsung AI Centre&lt;/strong&gt; as Research Intern. I am staying in Cambridge fro September 2020 to February 2021. I am part of Embedded AI Team and I am working under supervision of 
+&lt;a href=&#34;http://niclane.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Nicholas Lanen&lt;/strong&gt;&lt;/a&gt;, 
+&lt;a href=&#34;https://stevelaskaridis.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Stefanos Laskaridis&lt;/strong&gt;&lt;/a&gt;, and 
+&lt;a href=&#34;https://leontiadis.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ilias Leontiadis&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talk at Federated Learning One World Seminar</title>
+      <link>https://samuelhorvath.github.io/post/flow_talk/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/flow_talk/</guid>
+      <description>&lt;p&gt;I presented our work 
+&lt;a href=&#34;https://samuelhorvath.github.io/publication/euf/&#34;&gt;&lt;strong&gt;A Better Alternative to Error Feedback for Communication-Efficient Distributed Learning&lt;/strong&gt;&lt;/a&gt;, joint work with 
+&lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt; at 
+&lt;a href=&#34;https://sites.google.com/view/one-world-seminar-series-flow/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Federated Learning One World Seminar&lt;/strong&gt;&lt;/a&gt;. The one hour recording and slides are available 
+&lt;a href=&#34;https://sites.google.com/view/one-world-seminar-series-flow/archive#h.bxfeiggza9uw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New paper out</title>
