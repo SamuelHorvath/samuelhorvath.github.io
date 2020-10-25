@@ -5,12 +5,40 @@
     <link>https://samuelhorvath.github.io/post/</link>
       <atom:link href="https://samuelhorvath.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Samuel Horvath</copyright><lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Samuel Horvath</copyright><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://samuelhorvath.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://samuelhorvath.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>New paper out</title>
+      <link>https://samuelhorvath.github.io/post/new_paper_out_floptsampling/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0200</pubDate>
+      <guid>https://samuelhorvath.github.io/post/new_paper_out_floptsampling/</guid>
+      <description>&lt;p&gt;Our new paper &lt;strong&gt;Optimal Client Sampling for Federated Learning&lt;/strong&gt; is now available on the arXiv. This is the joint work with &lt;strong&gt;Wenlin Chen&lt;/strong&gt; and 
+&lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;It is well understood that client-master communication can be a primary bottleneck in Federated Learning. In this work, we address this issue with a novel client subsampling scheme, where we restrict the number of clients  allowed to communicate their updates back to the master node. In each communication round, all participated clients compute their updates, but only the ones with &amp;ldquo;important&amp;rdquo; updates communicate back to the master. We show that importance can be measured using only the norm of the update and we give a formula for optimal client participation. This formula minimizes the distance between the full update, where all clients participate, and our limited update, where the number of participating clients  is restricted. In addition, we provide a simple algorithm that approximates the optimal formula for client participation which only requires secure aggregation and thus does not compromise client privacy. We show
+both theoretically and empirically
+that our approach leads to superior performance for Distributed &lt;em&gt;SGD&lt;/em&gt; (&lt;em&gt;DSGD&lt;/em&gt;) and Federated Averaging (&lt;em&gt;FedAvg&lt;/em&gt;) compared to the baseline where participating clients are sampled uniformly. Finally, our approach is orthogonal to and compatible with existing methods for reducing communication overhead, such as local methods and communication compression methods.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Among Best Reviewers for NeurIPS 2020</title>
+      <link>https://samuelhorvath.github.io/post/neurips2020reviewer/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/neurips2020reviewer/</guid>
+      <description>&lt;p&gt;Announcement:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Hi Samuel,&lt;/p&gt;
+&lt;p&gt;Thank you for all your hard work reviewing for NeurIPS 2020! We are delighted to inform you that you were in the top 10% of high-scoring reviewers this year! You will therefore be given access to one free registration to this year’s conference; you will later receive additional information by email explaining how to access your registration. If you have already registered, you will receive a refund.&lt;/p&gt;
+&lt;p&gt;All the best,
+Hsuan-Tien Lin, Maria-Florina Balcan, Raia Hadsell, Marc&amp;rsquo;Aurelio Ranzato
+NeurIPS 2020 Program Chairs&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One paper accepted to NeurIPS 2020</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wenlin Chen | Samuel Horvath</title>
+    <link>https://samuelhorvath.github.io/author/wenlin-chen/</link>
+      <atom:link href="https://samuelhorvath.github.io/author/wenlin-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wenlin Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Samuel Horvath</copyright><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://samuelhorvath.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Wenlin Chen</title>
+      <link>https://samuelhorvath.github.io/author/wenlin-chen/</link>
+    </image>
+    
+    <item>
+      <title>Optimal Client Sampling for Federated Learning</title>
+      <link>https://samuelhorvath.github.io/publication/fl_optimal_sampling/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/publication/fl_optimal_sampling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
