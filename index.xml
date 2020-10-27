@@ -5,7 +5,7 @@
     <link>https://samuelhorvath.github.io/</link>
       <atom:link href="https://samuelhorvath.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Samuel Horvath</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Samuel Horvath</copyright><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Samuel Horvath</copyright><lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://samuelhorvath.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Samuel Horvath</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>Optimal Client Sampling for Federated Learning</title>
-      <link>https://samuelhorvath.github.io/publication/fl_optimal_sampling/</link>
-      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/publication/fl_optimal_sampling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>New paper out</title>
       <link>https://samuelhorvath.github.io/post/new_paper_out_floptsampling/</link>
-      <pubDate>Fri, 23 Oct 2020 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0100</pubDate>
       <guid>https://samuelhorvath.github.io/post/new_paper_out_floptsampling/</guid>
       <description>&lt;p&gt;Our new paper &lt;strong&gt;Optimal Client Sampling for Federated Learning&lt;/strong&gt; is now available on the arXiv. This is the joint work with &lt;strong&gt;Wenlin Chen&lt;/strong&gt; and 
 &lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
@@ -32,6 +24,14 @@
 both theoretically and empirically
 that our approach leads to superior performance for Distributed &lt;em&gt;SGD&lt;/em&gt; (&lt;em&gt;DSGD&lt;/em&gt;) and Federated Averaging (&lt;em&gt;FedAvg&lt;/em&gt;) compared to the baseline where participating clients are sampled uniformly. Finally, our approach is orthogonal to and compatible with existing methods for reducing communication overhead, such as local methods and communication compression methods.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Optimal Client Sampling for Federated Learning</title>
+      <link>https://samuelhorvath.github.io/publication/fl_optimal_sampling/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/publication/fl_optimal_sampling/</guid>
+      <description></description>
     </item>
     
     <item>
