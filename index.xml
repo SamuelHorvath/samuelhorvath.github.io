@@ -5,12 +5,29 @@
     <link>https://samuelhorvath.github.io/</link>
       <atom:link href="https://samuelhorvath.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Samuel Horvath</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Samuel Horvath</copyright><lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Samuel Horvath</copyright><lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://samuelhorvath.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Samuel Horvath</title>
       <link>https://samuelhorvath.github.io/</link>
     </image>
+    
+    <item>
+      <title>Two paper accepted to NeurIPS 2020 workshops, one Spotlight</title>
+      <link>https://samuelhorvath.github.io/post/neurips2020workshops/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/neurips2020workshops/</guid>
+      <description>&lt;p&gt;Our paper 
+&lt;a href=&#34;https://samuelhorvath.github.io/publication/fl_optimal_sampling/&#34;&gt;&lt;strong&gt;Optimal Client Sampling for Federated Learning&lt;/strong&gt;&lt;/a&gt;, joint work with &lt;strong&gt;Wenlin Chen&lt;/strong&gt; and 
+&lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;, was accepted to 
+&lt;a href=&#34;https://ppml-workshop.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Preserving Machine Learning workshop&lt;/a&gt;. In addition, our work 
+&lt;a href=&#34;https://samuelhorvath.github.io/publication/sc_sarah/&#34;&gt;&lt;strong&gt;Adaptivity of Stochhastic Gradient Methods for Nonconvex Optimization&lt;/strong&gt;&lt;/a&gt;, joint work with 
+&lt;a href=&#34;https://people.eecs.berkeley.edu/~jordan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Michael I. Jordan&lt;/strong&gt;&lt;/a&gt;, 
+&lt;a href=&#34;https://lihualei71.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Lihua Lei&lt;/strong&gt;&lt;/a&gt;, and 
+&lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;, was accepted to 
+&lt;a href=&#34;https://opt-ml.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Optimization for Machine Learning workshop&lt;/a&gt; as a &lt;strong&gt;Spotlight&lt;/strong&gt; talk.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New paper out</title>
@@ -57,7 +74,7 @@ NeurIPS 2020 Program Chairs&amp;rdquo;&lt;/p&gt;
 &lt;a href=&#34;https://arxiv.org/pdf/1809.04146.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Lower Bounds and Optimal Algorithms for Personalized Federated Learning&lt;/strong&gt;&lt;/a&gt;, joint work with 
 &lt;a href=&#34;https://fhanzely.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Filip Hanzely&lt;/strong&gt;&lt;/a&gt;, 
 &lt;a href=&#34;https://slavomirhanzely.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Slavomir Hanzely&lt;/strong&gt;&lt;/a&gt;,and 
-&lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;, got accepted to the NeurIPS 2019. This year conference is online this year and it takes place from 6th to 12th December 2020.&lt;/p&gt;
+&lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;, got accepted to the NeurIPS 2020. This year conference is online this year and it takes place from 6th to 12th December 2020.&lt;/p&gt;
 </description>
     </item>
     
