@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Filip Hanzely | Samuel Horvath</title>
+    <link>https://samuelhorvath.github.io/author/filip-hanzely/</link>
+      <atom:link href="https://samuelhorvath.github.io/author/filip-hanzely/index.xml" rel="self" type="application/rss+xml" />
+    <description>Filip Hanzely</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Samuel Horvath</copyright><lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://samuelhorvath.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Filip Hanzely</title>
+      <link>https://samuelhorvath.github.io/author/filip-hanzely/</link>
+    </image>
+    
+    <item>
+      <title>Lower Bounds and Optimal Algorithms for Personalized Federated Learning</title>
+      <link>https://samuelhorvath.github.io/publication/fl_implicit_opt_alg/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/publication/fl_implicit_opt_alg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

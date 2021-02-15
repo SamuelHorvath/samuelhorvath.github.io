@@ -5,7 +5,7 @@
     <link>https://samuelhorvath.github.io/author/peter-richtarik/</link>
       <atom:link href="https://samuelhorvath.github.io/author/peter-richtarik/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter Richtarik</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Samuel Horvath</copyright><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Samuel Horvath</copyright><lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://samuelhorvath.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Peter Richtarik</title>
@@ -17,6 +17,14 @@
       <link>https://samuelhorvath.github.io/publication/fl_optimal_sampling/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://samuelhorvath.github.io/publication/fl_optimal_sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lower Bounds and Optimal Algorithms for Personalized Federated Learning</title>
+      <link>https://samuelhorvath.github.io/publication/fl_implicit_opt_alg/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/publication/fl_implicit_opt_alg/</guid>
       <description></description>
     </item>
     
