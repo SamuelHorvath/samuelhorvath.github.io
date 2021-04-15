@@ -1,317 +1,221 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/authors/</loc>
-    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/post/</loc>
-    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/</loc>
-    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/author/samuel-horvath/</loc>
-    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/post/neurips2020best_paper/</loc>
-    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/post/aistats2021accepted/</loc>
-    <lastmod>2021-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/post/iclr2021accepted/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/post/neurips2020workshops/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/post/new_paper_out_floptsampling/</loc>
-    <lastmod>2020-10-26T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/publication-type/1/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/publication/fl_optimal_sampling/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/author/peter-richtarik/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/publication_types/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/publication/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/author/samuel-horvath/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/author/wenlin-chen/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/post/neurips2020reviewer/</loc>
-    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/post/neurips2020accepted/</loc>
-    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/author/filip-hanzely/</loc>
-    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/publication/fl_implicit_opt_alg/</loc>
-    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/author/slavomir-hanzely/</loc>
-    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/post/samsung/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/post/flow_talk/</loc>
-    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/publication/euf/</loc>
-    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/post/new_paper_out_uef/</loc>
-    <lastmod>2020-06-22T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/post/mlss_2020/</loc>
-    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/author/aleksandr-beznosikov/</loc>
-    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/author/mher-safaryan/</loc>
-    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/publication/biased_compression/</loc>
-    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/post/new_paper_out_biased_compression/</loc>
-    <lastmod>2020-03-02T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/publication/sc_sarah/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/author/lihua-lei/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/author/michael-i.-jordan/</loc>
-    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/post/new_paper_out_berkeley/</loc>
-    <lastmod>2020-02-12T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/post/alt_2020_conf/</loc>
-    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/post/alt_2020_paper/</loc>
-    <lastmod>2019-09-20T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/post/iccopt_2019/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/post/amazon/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://samuelhorvath.github.io/post/icml_2019_conf/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://samuelhorvath.github.io/publication-type/3/</loc>
-    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/authors/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/publication/fjord/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/author/ilias-leontiadis/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/author/mario-almeida/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/author/nicholas-lane/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/publication_types/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/publication/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/author/samuel-horvath/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/author/stefanos-laskaridis/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/author/stylianos-venieris/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/new_paper_out_fjord/</loc>
+    <lastmod>2021-02-28T00:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/</loc>
+    <lastmod>2021-02-28T00:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/author/samuel-horvath/</loc>
+    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/neurips2020best_paper/</loc>
+    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/publication-type/1/</loc>
+    <lastmod>2021-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/author/aaron-klein/</loc>
+    <lastmod>2021-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/author/cedric-archambeau/</loc>
+    <lastmod>2021-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/publication/abrac/</loc>
+    <lastmod>2021-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/aistats2021accepted/</loc>
+    <lastmod>2021-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/author/peter-richtarik/</loc>
+    <lastmod>2021-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/iclr2021accepted/</loc>
+    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/neurips2020workshops/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/new_paper_out_floptsampling/</loc>
+    <lastmod>2020-10-26T00:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/publication/fl_optimal_sampling/</loc>
+    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/author/wenlin-chen/</loc>
+    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/neurips2020reviewer/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/neurips2020accepted/</loc>
+    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/author/filip-hanzely/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/publication/fl_implicit_opt_alg/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/author/slavomir-hanzely/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/samsung/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/flow_talk/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/publication/euf/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/new_paper_out_uef/</loc>
+    <lastmod>2020-06-22T00:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/mlss_2020/</loc>
+    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/author/aleksandr-beznosikov/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/author/mher-safaryan/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/publication/biased_compression/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/new_paper_out_biased_compression/</loc>
+    <lastmod>2020-03-02T00:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/publication/sc_sarah/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/author/lihua-lei/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/author/michael-i.-jordan/</loc>
+    <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/new_paper_out_berkeley/</loc>
+    <lastmod>2020-02-12T00:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/alt_2020_conf/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/alt_2020_paper/</loc>
+    <lastmod>2019-09-20T00:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/iccopt_2019/</loc>
+    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/amazon/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/icml_2019_conf/</loc>
+    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://samuelhorvath.github.io/author/atal-narayan-sahu/</loc>
     <lastmod>2019-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://samuelhorvath.github.io/author/chen-yu-ho/</loc>
     <lastmod>2019-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://samuelhorvath.github.io/author/ludovit-horvath/</loc>
     <lastmod>2019-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://samuelhorvath.github.io/author/marco-canini/</loc>
     <lastmod>2019-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://samuelhorvath.github.io/publication/intml/</loc>
     <lastmod>2019-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://samuelhorvath.github.io/post/new_paper_out_intml/</loc>
-    <lastmod>2019-05-27T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-05-27T00:00:00+03:00</lastmod>
+  </url><url>
     <loc>https://samuelhorvath.github.io/publication/non_unif/</loc>
     <lastmod>2019-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://samuelhorvath.github.io/post/berkeley/</loc>
     <lastmod>2019-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://samuelhorvath.github.io/post/icml_2019_paper/</loc>
-    <lastmod>2019-05-10T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-05-10T00:00:00+03:00</lastmod>
+  </url><url>
     <loc>https://samuelhorvath.github.io/post/new_paper_out_quant_var/</loc>
-    <lastmod>2019-04-08T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-04-08T00:00:00+03:00</lastmod>
+  </url><url>
     <loc>https://samuelhorvath.github.io/author/dmitry-kovalev/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://samuelhorvath.github.io/author/konstantin-mishchenko/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://samuelhorvath.github.io/author/sebastian-stich/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://samuelhorvath.github.io/publication/diana2/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://samuelhorvath.github.io/post/new_paper_out_stupid/</loc>
-    <lastmod>2019-01-24T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2019-01-24T00:00:00+03:00</lastmod>
+  </url><url>
     <loc>https://samuelhorvath.github.io/publication/stupid/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://samuelhorvath.github.io/post/udacity/</loc>
     <lastmod>2018-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://samuelhorvath.github.io/post/new_paper_out_sampling/</loc>
-    <lastmod>2018-09-11T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-09-11T00:00:00+03:00</lastmod>
+  </url><url>
     <loc>https://samuelhorvath.github.io/post/dss_2018/</loc>
     <lastmod>2018-06-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://samuelhorvath.github.io/post/exponea/</loc>
     <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://samuelhorvath.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://samuelhorvath.github.io/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://samuelhorvath.github.io/tags/</loc>
   </url>
-  
 </urlset>

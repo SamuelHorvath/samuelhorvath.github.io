@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cedric Archambeau | Samuel Horvath</title>
+    <link>https://samuelhorvath.github.io/author/cedric-archambeau/</link>
+      <atom:link href="https://samuelhorvath.github.io/author/cedric-archambeau/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cedric Archambeau</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Samuel Horvath</copyright><lastBuildDate>Sat, 23 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://samuelhorvath.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Cedric Archambeau</title>
+      <link>https://samuelhorvath.github.io/author/cedric-archambeau/</link>
+    </image>
+    
+    <item>
+      <title>Hyperparameter Transfer Learning with Adaptive Complexity</title>
+      <link>https://samuelhorvath.github.io/publication/abrac/</link>
+      <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/publication/abrac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
