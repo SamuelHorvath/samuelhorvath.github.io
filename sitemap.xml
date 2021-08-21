@@ -2,11 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://samuelhorvath.github.io/publication-type/3/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+    <loc>https://samuelhorvath.github.io/post/icml_2021_conf/</loc>
+    <lastmod>2021-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/authors/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/</loc>
+    <lastmod>2021-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/</loc>
+    <lastmod>2021-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/author/samuel-horvath/</loc>
+    <lastmod>2021-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/publication-type/3/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/publication/fedguide/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/publication_types/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/publication/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuelhorvath.github.io/post/new_paper_out_field_guide/</loc>
+    <lastmod>2020-07-14T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/publication/fjord/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
@@ -20,16 +44,7 @@
     <loc>https://samuelhorvath.github.io/author/nicholas-lane/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://samuelhorvath.github.io/publication_types/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://samuelhorvath.github.io/publication/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://samuelhorvath.github.io/author/samuel-horvath/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://samuelhorvath.github.io/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/author/stefanos-laskaridis/</loc>
@@ -39,13 +54,7 @@
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/post/new_paper_out_fjord/</loc>
-    <lastmod>2021-02-28T00:00:00+03:00</lastmod>
-  </url><url>
-    <loc>https://samuelhorvath.github.io/post/</loc>
-    <lastmod>2021-02-28T00:00:00+03:00</lastmod>
-  </url><url>
-    <loc>https://samuelhorvath.github.io/author/samuel-horvath/</loc>
-    <lastmod>2021-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-28T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/post/neurips2020best_paper/</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
@@ -75,7 +84,7 @@
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/post/new_paper_out_floptsampling/</loc>
-    <lastmod>2020-10-26T00:00:00+03:00</lastmod>
+    <lastmod>2020-10-26T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/publication/fl_optimal_sampling/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
@@ -108,7 +117,7 @@
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/post/new_paper_out_uef/</loc>
-    <lastmod>2020-06-22T00:00:00+03:00</lastmod>
+    <lastmod>2020-06-22T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/post/mlss_2020/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
@@ -123,7 +132,7 @@
     <lastmod>2020-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/post/new_paper_out_biased_compression/</loc>
-    <lastmod>2020-03-02T00:00:00+03:00</lastmod>
+    <lastmod>2020-03-02T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/publication/sc_sarah/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
@@ -135,13 +144,13 @@
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/post/new_paper_out_berkeley/</loc>
-    <lastmod>2020-02-12T00:00:00+03:00</lastmod>
+    <lastmod>2020-02-12T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/post/alt_2020_conf/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/post/alt_2020_paper/</loc>
-    <lastmod>2019-09-20T00:00:00+03:00</lastmod>
+    <lastmod>2019-09-20T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/post/iccopt_2019/</loc>
     <lastmod>2019-08-08T00:00:00+00:00</lastmod>
@@ -168,7 +177,7 @@
     <lastmod>2019-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/post/new_paper_out_intml/</loc>
-    <lastmod>2019-05-27T00:00:00+03:00</lastmod>
+    <lastmod>2019-05-27T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/publication/non_unif/</loc>
     <lastmod>2019-05-20T00:00:00+00:00</lastmod>
@@ -177,10 +186,10 @@
     <lastmod>2019-05-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/post/icml_2019_paper/</loc>
-    <lastmod>2019-05-10T00:00:00+03:00</lastmod>
+    <lastmod>2019-05-10T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/post/new_paper_out_quant_var/</loc>
-    <lastmod>2019-04-08T00:00:00+03:00</lastmod>
+    <lastmod>2019-04-08T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/author/dmitry-kovalev/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
@@ -195,7 +204,7 @@
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/post/new_paper_out_stupid/</loc>
-    <lastmod>2019-01-24T00:00:00+03:00</lastmod>
+    <lastmod>2019-01-24T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/publication/stupid/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
@@ -204,7 +213,7 @@
     <lastmod>2018-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/post/new_paper_out_sampling/</loc>
-    <lastmod>2018-09-11T00:00:00+03:00</lastmod>
+    <lastmod>2018-09-11T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://samuelhorvath.github.io/post/dss_2018/</loc>
     <lastmod>2018-06-24T00:00:00+00:00</lastmod>

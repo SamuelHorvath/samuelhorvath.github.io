@@ -5,7 +5,7 @@
     <link>https://samuelhorvath.github.io/post/</link>
       <atom:link href="https://samuelhorvath.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Samuel Horvath</copyright><lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Samuel Horvath</copyright><lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://samuelhorvath.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -13,9 +13,29 @@
     </image>
     
     <item>
+      <title>2 papers accepted for Federated Learning workshop at ICML 2021</title>
+      <link>https://samuelhorvath.github.io/post/icml_2021_conf/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/icml_2021_conf/</guid>
+      <description>&lt;p&gt;I attended Thirty-eighth International Conference on Machine Learning, where we presented 2 posters in the Federated Learning Workshop.  These works are based on our recent paper &lt;a href=&#34;https://fl-icml.github.io/2021/papers/FL-ICML21_paper_25.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;FjORD: Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://fl-icml.github.io/2021/papers/FL-ICML21_paper_38.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;FedMix: A Simple and Communication-Efficient Alternative to Local Methods in Federated Learning&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New paper out</title>
+      <link>https://samuelhorvath.github.io/post/new_paper_out_field_guide/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0200</pubDate>
+      <guid>https://samuelhorvath.github.io/post/new_paper_out_field_guide/</guid>
+      <description>&lt;p&gt;Our new paper &lt;strong&gt;A Field Guide to Federated Optimization&lt;/strong&gt; is now available on the arXiv. This is a joint work of 53 researchers from both industry and academia.&lt;/p&gt;
+&lt;p&gt;Abstract:&lt;/p&gt;
+&lt;p&gt;Federated learning and analytics are a distributed approach for collaboratively learning models (or statistics) from decentralized data, motivated by and designed for privacy protection. The distributed learning process can be formulated as solving federated optimization problems, which emphasize communication efficiency, data heterogeneity, compatibility with privacy and system requirements, and other constraints that are not primary considerations in other problem settings. This paper provides recommendations and guidelines on formulating, designing, evaluating and analyzing federated optimization algorithms through concrete examples and practical implementation, with a focus on conducting effective simulations to infer real-world performance. The goal of this work is not to survey the current literature, but to inspire researchers and practitioners to design federated learning algorithms that can be used in various practical applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>New paper out</title>
       <link>https://samuelhorvath.github.io/post/new_paper_out_fjord/</link>
-      <pubDate>Sun, 28 Feb 2021 00:00:00 +0300</pubDate>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0100</pubDate>
       <guid>https://samuelhorvath.github.io/post/new_paper_out_fjord/</guid>
       <description>&lt;p&gt;Our new paper &lt;strong&gt;FjORD: Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout&lt;/strong&gt; is now available on the arXiv. This is a joint work with &lt;a href=&#34;https://stevelaskaridis.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Stefanos Laskaridis&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://www.marioalmeida.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Mario Almeida&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://leontiadis.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ilias Leontiadis&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://steliosven10.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Stylianos Venieris&lt;/strong&gt;&lt;/a&gt;, and &lt;a href=&#34;http://niclane.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Nic Lane&lt;/strong&gt;&lt;/a&gt; from Samsung AI Centre, Cambridge, UK.&lt;/p&gt;
 &lt;p&gt;Abstract:&lt;/p&gt;
@@ -66,7 +86,7 @@
     <item>
       <title>New paper out</title>
       <link>https://samuelhorvath.github.io/post/new_paper_out_floptsampling/</link>
-      <pubDate>Mon, 26 Oct 2020 00:00:00 +0300</pubDate>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0100</pubDate>
       <guid>https://samuelhorvath.github.io/post/new_paper_out_floptsampling/</guid>
       <description>&lt;p&gt;Our new paper &lt;strong&gt;Optimal Client Sampling for Federated Learning&lt;/strong&gt; is now available on the arXiv. This is the joint work with &lt;strong&gt;Wenlin Chen&lt;/strong&gt; and &lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Abstract:&lt;/p&gt;
@@ -120,7 +140,7 @@ NeurIPS 2020 Program Chairs&amp;rdquo;&lt;/p&gt;
     <item>
       <title>New paper out</title>
       <link>https://samuelhorvath.github.io/post/new_paper_out_uef/</link>
-      <pubDate>Mon, 22 Jun 2020 00:00:00 +0300</pubDate>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0200</pubDate>
       <guid>https://samuelhorvath.github.io/post/new_paper_out_uef/</guid>
       <description>&lt;p&gt;Our new paper &lt;strong&gt;A Better Alternative to Error Feedback for Communication-Efficient Distributed Learning&lt;/strong&gt; is now available on the arXiv. This is a joint work  with my supervisor &lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Abstract:&lt;/p&gt;
@@ -140,7 +160,7 @@ NeurIPS 2020 Program Chairs&amp;rdquo;&lt;/p&gt;
     <item>
       <title>New paper out</title>
       <link>https://samuelhorvath.github.io/post/new_paper_out_biased_compression/</link>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 +0300</pubDate>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0100</pubDate>
       <guid>https://samuelhorvath.github.io/post/new_paper_out_biased_compression/</guid>
       <description>&lt;p&gt;Our new paper &lt;strong&gt;On Biased Compression for Distributed Learning&lt;/strong&gt; is now available on the arXiv. This is a joint work  with &lt;a href=&#34;https://scholar.google.com/citations?user=hVVJR-sAAAAJ&amp;amp;hl=ru&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Aleksandr Beznosikov&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://mher-safaryan.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Mher Safaryan&lt;/strong&gt;&lt;/a&gt;  and my supervisor &lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Abstract:&lt;/p&gt;
@@ -151,7 +171,7 @@ NeurIPS 2020 Program Chairs&amp;rdquo;&lt;/p&gt;
     <item>
       <title>New paper out</title>
       <link>https://samuelhorvath.github.io/post/new_paper_out_berkeley/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0100</pubDate>
       <guid>https://samuelhorvath.github.io/post/new_paper_out_berkeley/</guid>
       <description>&lt;p&gt;Our new paper &lt;strong&gt;Adaptivity of Stochhastic Gradient Methods for Nonconvex Optimization&lt;/strong&gt; is now available on the arxiv. This project originated in May 2019 while I was visiting prof. &lt;a href=&#34;https://people.eecs.berkeley.edu/~jordan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Michael I. Jordan&lt;/strong&gt;&lt;/a&gt; at Berkeley and is the joint work with &lt;a href=&#34;https://lihualei71.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Lihua Lei&lt;/strong&gt;&lt;/a&gt;, that time PhD student at Berkeley, and my supervisor &lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Abstract:&lt;/p&gt;
@@ -171,7 +191,7 @@ NeurIPS 2020 Program Chairs&amp;rdquo;&lt;/p&gt;
     <item>
       <title>ALT 2020</title>
       <link>https://samuelhorvath.github.io/post/alt_2020_paper/</link>
-      <pubDate>Fri, 20 Sep 2019 00:00:00 +0300</pubDate>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0200</pubDate>
       <guid>https://samuelhorvath.github.io/post/alt_2020_paper/</guid>
       <description>&lt;p&gt;Our paper &lt;a href=&#34;https://arxiv.org/pdf/1901.08689.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Don’t Jump Through Hoops and Remove Those Loops: SVRG and Katyusha are Better Without the Outer Loop&lt;/strong&gt;&lt;/a&gt;, joint work with &lt;a href=&#34;https://www.dmitry-kovalev.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Dmitry Kovalev&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;, got accepted to the ALT 2020. The conference takes place from 8-11th February at San Diego, California.&lt;/p&gt;
 &lt;p&gt;Abstract:&lt;/p&gt;
@@ -211,7 +231,7 @@ NeurIPS 2020 Program Chairs&amp;rdquo;&lt;/p&gt;
     <item>
       <title>New paper out</title>
       <link>https://samuelhorvath.github.io/post/new_paper_out_intml/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 +0300</pubDate>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0200</pubDate>
       <guid>https://samuelhorvath.github.io/post/new_paper_out_intml/</guid>
       <description>&lt;p&gt;Our new paper &lt;strong&gt;Natural Compression for Distributed Deep Learning&lt;/strong&gt; is now available on the arxiv. This is the joint work with &lt;a href=&#34;https://www.chenyuho.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Chen-Yu Ho&lt;/strong&gt;&lt;/a&gt;, &lt;strong&gt;Ludovit Horvath&lt;/strong&gt;, &lt;strong&gt;Atal Sahu&lt;/strong&gt;, &lt;a href=&#34;https://mcanini.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Marco Canini&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Abstract:&lt;/p&gt;
@@ -231,7 +251,7 @@ NeurIPS 2020 Program Chairs&amp;rdquo;&lt;/p&gt;
     <item>
       <title>ICML 2019</title>
       <link>https://samuelhorvath.github.io/post/icml_2019_paper/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 +0300</pubDate>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0200</pubDate>
       <guid>https://samuelhorvath.github.io/post/icml_2019_paper/</guid>
       <description>&lt;p&gt;Our paper &lt;a href=&#34;https://arxiv.org/pdf/1809.04146.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Nonconvex Variance Reduced Optimization with Arbitrary Sampling&lt;/strong&gt;&lt;/a&gt;, joint work with &lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;, got accepted to the ICML 2019. The conference takes place from 9-15th June at Long Beach, California.&lt;/p&gt;
 &lt;p&gt;Abstract:&lt;/p&gt;
@@ -245,7 +265,7 @@ SVRG, SAGA and SARAH. Our methods have the capacity to speed up the training pro
     <item>
       <title>New paper out</title>
       <link>https://samuelhorvath.github.io/post/new_paper_out_quant_var/</link>
-      <pubDate>Mon, 08 Apr 2019 00:00:00 +0300</pubDate>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0200</pubDate>
       <guid>https://samuelhorvath.github.io/post/new_paper_out_quant_var/</guid>
       <description>&lt;p&gt;Our new paper &lt;strong&gt;Stochastic Distributed Learning with Gradient Quantization and Variance Reduction&lt;/strong&gt; will be soon available on the arxiv. This is the joint work with &lt;a href=&#34;https://dakovalev1.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Dmitry Kovalev&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://konstmish.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Konstantin Mishchenko&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://www.sstich.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Sebastian Stich&lt;/strong&gt;&lt;/a&gt;, and my supervisor &lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Abstract:&lt;/p&gt;
@@ -270,7 +290,7 @@ SVRG, SAGA and SARAH. Our methods have the capacity to speed up the training pro
     <item>
       <title>New paper out</title>
       <link>https://samuelhorvath.github.io/post/new_paper_out_stupid/</link>
-      <pubDate>Thu, 24 Jan 2019 00:00:00 +0300</pubDate>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0100</pubDate>
       <guid>https://samuelhorvath.github.io/post/new_paper_out_stupid/</guid>
       <description>&lt;p&gt;Our new paper &lt;strong&gt;Don&amp;rsquo;t Jump Through Hoops and Remove Those Loops: SVRG and Katyusha are Better Without the Outer Loop&lt;/strong&gt; is now available on the arxiv. This is the joint work with &lt;a href=&#34;https://dakovalev1.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Dmitry Kovalev&lt;/strong&gt;&lt;/a&gt; and my supervisor &lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Abstract:&lt;/p&gt;
@@ -290,7 +310,7 @@ SVRG, SAGA and SARAH. Our methods have the capacity to speed up the training pro
     <item>
       <title>New paper out</title>
       <link>https://samuelhorvath.github.io/post/new_paper_out_sampling/</link>
-      <pubDate>Tue, 11 Sep 2018 00:00:00 +0300</pubDate>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0200</pubDate>
       <guid>https://samuelhorvath.github.io/post/new_paper_out_sampling/</guid>
       <description>&lt;p&gt;Our paper is now available on the arxiv. A poster based on the results of this paper won &lt;a href=&#34;https://samuelhorvath.github.io/post/dss_2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Best Poster&lt;/a&gt; at Data Science Summer School in Paris, 2018.&lt;/p&gt;
 &lt;p&gt;Abstract:&lt;/p&gt;
