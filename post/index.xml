@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>2 papers accepted for Federated Learning workshop at ICML 2021</title>
+      <title>Two papers accepted for Federated Learning workshop at ICML 2021</title>
       <link>https://samuelhorvath.github.io/post/icml_2021_conf/</link>
       <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://samuelhorvath.github.io/post/icml_2021_conf/</guid>
@@ -81,7 +81,7 @@
     </item>
     
     <item>
-      <title>4 papers accepted to NeurIPS 2020 Workshops, 1 Spotlight and 2 Oral Presentations</title>
+      <title>4 papers accepted to NeurIPS 2020 Workshops, One Spotlight and Two Orals</title>
       <link>https://samuelhorvath.github.io/post/neurips2020workshops/</link>
       <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://samuelhorvath.github.io/post/neurips2020workshops/</guid>
@@ -321,7 +321,7 @@ SVRG, SAGA and SARAH. Our methods have the capacity to speed up the training pro
       <link>https://samuelhorvath.github.io/post/new_paper_out_sampling/</link>
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0200</pubDate>
       <guid>https://samuelhorvath.github.io/post/new_paper_out_sampling/</guid>
-      <description>&lt;p&gt;Our paper is now available on the arxiv. A poster based on the results of this paper won &lt;a href=&#34;https://samuelhorvath.github.io/post/dss_2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Best Poster&lt;/a&gt; at Data Science Summer School in Paris, 2018.&lt;/p&gt;
+      <description>&lt;p&gt;Our paper is now available on the arXiv. A poster based on the results of this paper won &lt;a href=&#34;https://samuelhorvath.github.io/post/dss_2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Best Poster&lt;/a&gt; at Data Science Summer School in Paris, 2018.&lt;/p&gt;
 &lt;p&gt;Abstract:&lt;/p&gt;
 &lt;p&gt;We provide the first importance sampling variants of variance reduced algorithms for empirical risk minimization with non-convex loss functions. In particular, we analyze non-convex versions of
 SVRG, SAGA and SARAH. Our methods have the capacity to speed up the training process by  an order of magnitude compared to the state of the art on real datasets. Moreover, we also improve upon current mini-batch analysis of these methods by proposing  importance sampling for minibatches in this setting. Surprisingly, our approach can in some regimes lead to superlinear speedup with respect to the minibatch size, which is not usually present in stochastic optimization. All the above results follow from a general analysis of the methods which works with arbitrary sampling, i.e., fully general randomized strategy for the selection of subsets of examples to be sampled in each iteration. Finally, we also perform a novel importance sampling analysis of SARAH in the convex setting.&lt;/p&gt;

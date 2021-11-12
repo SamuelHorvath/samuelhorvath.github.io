@@ -5,99 +5,199 @@
     <link>https://samuelhorvath.github.io/author/samuel-horvath/</link>
       <atom:link href="https://samuelhorvath.github.io/author/samuel-horvath/index.xml" rel="self" type="application/rss+xml" />
     <description>Samuel Horvath</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Samuel Horvath</copyright><lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Samuel Horvath</copyright><lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://samuelhorvath.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://samuelhorvath.github.io/author/samuel-horvath/avatar_hu92a1891b6d65d6c935723c3a7f40b788_113120_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Samuel Horvath</title>
       <link>https://samuelhorvath.github.io/author/samuel-horvath/</link>
     </image>
     
     <item>
-      <title>FjORD: Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout</title>
-      <link>https://samuelhorvath.github.io/publication/fjord/</link>
-      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/publication/fjord/</guid>
-      <description></description>
+      <title>One paper accepted to NeurIPS 2021 as Spotlight (Top 3%)</title>
+      <link>https://samuelhorvath.github.io/post/neurips2021accepted/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/neurips2021accepted/</guid>
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;https://arxiv.org/pdf/2102.13451.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;FjORD: Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout&lt;/strong&gt;&lt;/a&gt;, a joint work with &lt;a href=&#34;https://stevelaskaridis.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Stefanos Laskaridis&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://www.marioalmeida.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Mario Almeida&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://leontiadis.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ilias Leontiadis&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://steliosven10.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Stylianos Venieris&lt;/strong&gt;&lt;/a&gt;, and &lt;a href=&#34;http://niclane.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Nic Lane&lt;/strong&gt;&lt;/a&gt; got accepted to the NeurIPS 2021 as &lt;strong&gt;Spotlight&lt;/strong&gt; (less than 3% of submissions).&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Hyperparameter Transfer Learning with Adaptive Complexity</title>
-      <link>https://samuelhorvath.github.io/publication/abrac/</link>
+      <title>Two papers accepted for Federated Learning workshop at ICML 2021</title>
+      <link>https://samuelhorvath.github.io/post/icml_2021_conf/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/icml_2021_conf/</guid>
+      <description>&lt;p&gt;I attended the Thirty-eighth International Conference on Machine Learning, where we presented two posters in the Federated Learning Workshop.  These works are based on our recent paper &lt;a href=&#34;https://fl-icml.github.io/2021/papers/FL-ICML21_paper_25.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;FjORD: Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://fl-icml.github.io/2021/papers/FL-ICML21_paper_38.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;FedMix: A Simple and Communication-Efficient Alternative to Local Methods in Federated Learning&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Best Paper Award at NeurIPS 2020 SpicyFL Workshop</title>
+      <link>https://samuelhorvath.github.io/post/neurips2020best_paper/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/neurips2020best_paper/</guid>
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;https://openreview.net/pdf?id=vYVI1CHPaQg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;A Better Alternative to Error Feedback for Communication-Efficient Distributed Learning&lt;/strong&gt;&lt;/a&gt;, joint work with &lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;, won &lt;strong&gt;the Best Paper Award&lt;/strong&gt; at &lt;a href=&#34;http://icfl.cc/SpicyFL/2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeurIPS Workshop on Scalability, Privacy, and Security in Federated Learning&lt;/a&gt;. This prize comes with a generous check of 1888$.&lt;/p&gt;
+&lt;h2 id=&#34;awardneurips2020_best_paper_awardpdf&#34;&gt;&lt;a href=&#34;NeurIPS2020_best_paper_award.pdf&#34;&gt;Award&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted to AISTATS 2021</title>
+      <link>https://samuelhorvath.github.io/post/aistats2021accepted/</link>
       <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/publication/abrac/</guid>
-      <description></description>
+      <guid>https://samuelhorvath.github.io/post/aistats2021accepted/</guid>
+      <description>&lt;p&gt;Our paper [&lt;strong&gt;Hyperparameter Transfer Learning with Adaptive Complexity&lt;/strong&gt;], joint work with &lt;a href=&#34;https://aaronkl.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Aaron Klein&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;http://www0.cs.ucl.ac.uk/staff/c.archambeau/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Cedric Archambeau&lt;/strong&gt;&lt;/a&gt;, got accepted to the AISTATS 2021. This year AISTATS will be entirely virtual, taking place in April.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Optimal Client Sampling for Federated Learning</title>
-      <link>https://samuelhorvath.github.io/publication/fl_optimal_sampling/</link>
-      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/publication/fl_optimal_sampling/</guid>
-      <description></description>
+      <title>One paper accepted to ICLR 2021</title>
+      <link>https://samuelhorvath.github.io/post/iclr2021accepted/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/iclr2021accepted/</guid>
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;https://openreview.net/pdf?id=vYVI1CHPaQg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;A Better Alternative to Error Feedback for Communication-Efficient Distributed Learning&lt;/strong&gt;&lt;/a&gt;, joint work with &lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;, got accepted to the ICLR 2021. This year ICLR will be virtual taking place in May.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Lower Bounds and Optimal Algorithms for Personalized Federated Learning</title>
-      <link>https://samuelhorvath.github.io/publication/fl_implicit_opt_alg/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/publication/fl_implicit_opt_alg/</guid>
-      <description></description>
+      <title>4 papers accepted to NeurIPS 2020 Workshops, One Spotlight and Two Orals</title>
+      <link>https://samuelhorvath.github.io/post/neurips2020workshops/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/neurips2020workshops/</guid>
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;https://samuelhorvath.github.io/publication/fl_optimal_sampling/&#34;&gt;&lt;strong&gt;Optimal Client Sampling for Federated Learning&lt;/strong&gt;&lt;/a&gt;, joint work with &lt;strong&gt;Wenlin Chen&lt;/strong&gt; and &lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;, was accepted to &lt;a href=&#34;https://ppml-workshop.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Preserving Machine Learning workshop&lt;/a&gt;. In addition, our work &lt;a href=&#34;https://samuelhorvath.github.io/publication/sc_sarah/&#34;&gt;&lt;strong&gt;Adaptivity of Stochhastic Gradient Methods for Nonconvex Optimization&lt;/strong&gt;&lt;/a&gt;, joint work with &lt;a href=&#34;https://people.eecs.berkeley.edu/~jordan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Michael I. Jordan&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://lihualei71.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Lihua Lei&lt;/strong&gt;&lt;/a&gt;, and &lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;, was accepted to &lt;a href=&#34;https://opt-ml.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Optimization for Machine Learning workshop&lt;/a&gt; as a &lt;strong&gt;Spotlight&lt;/strong&gt; talk. Lastly, &lt;a href=&#34;https://samuelhorvath.github.io/publication/euf/&#34;&gt;&lt;strong&gt;A Better Alternative to Error Feedback for Communication-Efficient Distributed Learning&lt;/strong&gt;&lt;/a&gt;, joint work with &lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;, and &lt;a href=&#34;https://samuelhorvath.github.io/publication/biased_compression/&#34;&gt;&lt;strong&gt;On Biased Compression for Distributed Learning&lt;/strong&gt;&lt;/a&gt;, joint work with &lt;a href=&#34;https://scholar.google.com/citations?user=hVVJR-sAAAAJ&amp;amp;hl=ru&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Aleksandr Beznosikov&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://mher-safaryan.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Mher Safaryan&lt;/strong&gt;&lt;/a&gt;  and &lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;,  were selected as &lt;strong&gt;contributed talks&lt;/strong&gt; at &lt;a href=&#34;http://icfl.cc/SpicyFL/2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop on Scalability, Privacy, and Security in Federated Learning&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;update&#34;&gt;&lt;strong&gt;UPDATE&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://samuelhorvath.github.io/publication/euf/&#34;&gt;&lt;strong&gt;A Better Alternative to Error Feedback for Communication-Efficient Distributed Learning&lt;/strong&gt;&lt;/a&gt; won &lt;strong&gt;the Best Paper Award&lt;/strong&gt; at NeurIPS -SpicyFL 2020 - NeurIPS-20 Workshop on Scalability, Privacy, and Security in Federated Learning.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>A Better Alternative to Error Feedback for Communication-Efficient Distributed Learning</title>
-      <link>https://samuelhorvath.github.io/publication/euf/</link>
-      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/publication/euf/</guid>
-      <description></description>
+      <title>Among Best Reviewers for NeurIPS 2020</title>
+      <link>https://samuelhorvath.github.io/post/neurips2020reviewer/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/neurips2020reviewer/</guid>
+      <description>&lt;p&gt;Announcement:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Hi Samuel,&lt;/p&gt;
+&lt;p&gt;Thank you for all your hard work reviewing for NeurIPS 2020! We are delighted to inform you that you were in the top 10% of high-scoring reviewers this year! You will therefore be given access to one free registration to this year’s conference; you will later receive additional information by email explaining how to access your registration. If you have already registered, you will receive a refund.&lt;/p&gt;
+&lt;p&gt;All the best,
+Hsuan-Tien Lin, Maria-Florina Balcan, Raia Hadsell, Marc&amp;rsquo;Aurelio Ranzato
+NeurIPS 2020 Program Chairs&amp;rdquo;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>On Biased Compression for Distributed Learning</title>
-      <link>https://samuelhorvath.github.io/publication/biased_compression/</link>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/publication/biased_compression/</guid>
-      <description></description>
+      <title>One paper accepted to NeurIPS 2020</title>
+      <link>https://samuelhorvath.github.io/post/neurips2020accepted/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/neurips2020accepted/</guid>
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;https://proceedings.neurips.cc/paper/2020/file/187acf7982f3c169b3075132380986e4-Paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Lower Bounds and Optimal Algorithms for Personalized Federated Learning&lt;/strong&gt;&lt;/a&gt;, joint work with &lt;a href=&#34;https://fhanzely.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Filip Hanzely&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://slavomirhanzely.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Slavomir Hanzely&lt;/strong&gt;&lt;/a&gt;, and &lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt;, got accepted to the NeurIPS 2020. This year conference is online, and it takes place from 6th to 12th December 2020.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Adaptivity of Stochastic Gradient Methods for Nonconvex Optimization</title>
-      <link>https://samuelhorvath.github.io/publication/sc_sarah/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/publication/sc_sarah/</guid>
-      <description></description>
+      <title>Samsung AI Centre Cambridge Internship</title>
+      <link>https://samuelhorvath.github.io/post/samsung/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/samsung/</guid>
+      <description>&lt;p&gt;I have joined &lt;strong&gt;Samsung AI Centre&lt;/strong&gt; as Research Intern. I am staying in Cambridge from September 2020 to February 2021. I am part of the Embedded AI Team, and I am working under the supervision of &lt;a href=&#34;http://niclane.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Nicholas Lanen&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://stevelaskaridis.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Stefanos Laskaridis&lt;/strong&gt;&lt;/a&gt;, and &lt;a href=&#34;https://leontiadis.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ilias Leontiadis&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Natural Compression for Distributed Deep Learning</title>
-      <link>https://samuelhorvath.github.io/publication/intml/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/publication/intml/</guid>
-      <description></description>
+      <title>Talk at Federated Learning One World Seminar</title>
+      <link>https://samuelhorvath.github.io/post/flow_talk/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/flow_talk/</guid>
+      <description>&lt;p&gt;I presented our work &lt;a href=&#34;https://samuelhorvath.github.io/publication/euf/&#34;&gt;&lt;strong&gt;A Better Alternative to Error Feedback for Communication-Efficient Distributed Learning&lt;/strong&gt;&lt;/a&gt;, joint work with &lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Peter Richtarik&lt;/strong&gt;&lt;/a&gt; at &lt;a href=&#34;https://sites.google.com/view/one-world-seminar-series-flow/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Federated Learning One World Seminar&lt;/strong&gt;&lt;/a&gt;. The one-hour recording and slides are available &lt;a href=&#34;https://sites.google.com/view/one-world-seminar-series-flow/archive#h.bxfeiggza9uw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Nonconvex Variance Reduced Optimization with Arbitrary Sampling</title>
-      <link>https://samuelhorvath.github.io/publication/non_unif/</link>
-      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/publication/non_unif/</guid>
-      <description></description>
+      <title>Summer Schools 2020</title>
+      <link>https://samuelhorvath.github.io/post/mlss_2020/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/mlss_2020/</guid>
+      <description>&lt;p&gt;I have been accepted to two Machine Learning Summer Schools. &lt;a href=&#34;http://mlss.tuebingen.mpg.de/2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLSS Tuebingen&lt;/a&gt; takes place from 28. June to 10. July (acceptance rate 130/1800+) and &lt;a href=&#34;https://telkomuniversity.ac.id/en/event/machnine-learning-summer-scool-indonesia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLSS Indonesia&lt;/a&gt; from 3. to 9. August.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Stochastic Distributed Learning with Gradient Quantization and Variance Reduction</title>
-      <link>https://samuelhorvath.github.io/publication/diana2/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/publication/diana2/</guid>
-      <description></description>
+      <title>Attending ALT 2020</title>
+      <link>https://samuelhorvath.github.io/post/alt_2020_conf/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/alt_2020_conf/</guid>
+      <description>&lt;p&gt;I attended the 31st International Conference on Algorithmic Learning Theory in San Diego. I presented our accepted paper &lt;a href=&#34;http://alt2020.algorithmiclearningtheory.org/accepted-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SVRG and Katyusha are Better without the Outer Loop&lt;/strong&gt;&lt;/a&gt; as 20 minutes talk.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Don’t Jump Through Hoops and Remove Those Loops: SVRG and Katyusha are Better Without the Outer Loop</title>
-      <link>https://samuelhorvath.github.io/publication/stupid/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://samuelhorvath.github.io/publication/stupid/</guid>
-      <description></description>
+      <title>ICCOPT 2019</title>
+      <link>https://samuelhorvath.github.io/post/iccopt_2019/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/iccopt_2019/</guid>
+      <description>&lt;p&gt;I attended &lt;a href=&#34;https://iccopt2019.berlin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICCOPT 2019&lt;/a&gt;, the Sixth International Conference on Continuous Optimization, which took place on the campus of the Technical University (TU) of Berlin, August 3-8, 2019. The ICCOPT is a flagship conference of the Mathematical Optimization Society (MOS), organized every three years. I organized a mini-symposia together with &lt;a href=&#34;fhanzely.github.io&#34;&gt;Filip Hanzely&lt;/a&gt; and gave a talk about our work &lt;a href=&#34;https://samuelhorvath.github.io/post/new_paper_out_quant_var/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Stochastic Distributed Learning with Gradient Quantization and Variance Reduction&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amazon Research Internship</title>
+      <link>https://samuelhorvath.github.io/post/amazon/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/amazon/</guid>
+      <description>&lt;p&gt;I have joined &lt;strong&gt;Amazon&lt;/strong&gt; as Applied Scientist Intern for Summer 2019. I am part of AI Core Team supervised by Cedric Archambeau and Matthias Seeger.&lt;/p&gt;
+&lt;h3 id=&#34;update&#34;&gt;&lt;strong&gt;UPDATE&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;I finished my internship. While being at Amazon, I had the pleasure to attend &lt;strong&gt;Amazon EMEA Research Internship Colloquium&lt;/strong&gt;, the conference for all of Amazon interns from the EMEA region, where I presented a poster based on our paper &lt;a href=&#34;https://samuelhorvath.github.io/post/new_paper_out_intml/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Natural Compression for Distributed Deep Learning&lt;/strong&gt;&lt;/a&gt;. In addition, I attended &lt;strong&gt;Amazon Research Days&lt;/strong&gt;; the conference focused on promoting collaboration with academia. In terms of research, I worked on scalable transfer learning for hyperparameter optimization, closely working with &lt;strong&gt;Cedric Archambeau&lt;/strong&gt;, &lt;strong&gt;Aaron Klein&lt;/strong&gt;, and &lt;strong&gt;Valerio Perrone&lt;/strong&gt;. I hope our work will be available online soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Attending ICML 2019</title>
+      <link>https://samuelhorvath.github.io/post/icml_2019_conf/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/icml_2019_conf/</guid>
+      <description>&lt;p&gt;I attended the Thirty-sixth International Conference on Machine Learning. We had our work &lt;a href=&#34;http://proceedings.mlr.press/v97/horvath19a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Nonconvex Variance Reduced Optimization with Arbitrary Sampling&lt;/strong&gt;&lt;/a&gt; accepted, which I presented as the 5 min talk as well as the poster.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Berkeley Research Visit</title>
+      <link>https://samuelhorvath.github.io/post/berkeley/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/berkeley/</guid>
+      <description>&lt;p&gt;I am at Berkeley, where I am visiting &lt;a href=&#34;https://people.eecs.berkeley.edu/~jordan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Michael I. Jordan&lt;/strong&gt;&lt;/a&gt;. I will stay here for a month, and then I am travelling to Los Angeles to attend ICML, where I will present our &lt;a href=&#34;https://samuelhorvath.github.io/post/icml_2019_paper&#34;&gt;work&lt;/a&gt;. During my stay at Berkeley, I will also attend &lt;a href=&#34;https://simons.berkeley.edu/programs/dl2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning Bootcamp&lt;/a&gt; at &lt;a href=&#34;https://simons.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simons Institute&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Nanodegree</title>
+      <link>https://samuelhorvath.github.io/post/udacity/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/udacity/</guid>
+      <description>&lt;p&gt;After three months, I finished all five projects of  &lt;a href=&#34;https://udacity.com/course/deep-learning-nanodegree-foundation--nd101&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning Nanodegree&lt;/a&gt; consisting of Neural Nets, CNN, RNN, GANs and  Deep Reinforcement Learning. This course is taught by well-known AI experts such as Sebastian Thrun, Ian Goodfellow and Andrew Trask.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science Summer School Paris</title>
+      <link>https://samuelhorvath.github.io/post/dss_2018/</link>
+      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/dss_2018/</guid>
+      <description>&lt;p&gt;I am attending &lt;a href=&#34;http://www.ds3-datascience-polytechnique.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Data Science Summer School&lt;/strong&gt;&lt;/a&gt; in Paris at  École Polytechnique. I will present a poster with the title &lt;a href=&#34;http://www.ds3-datascience-polytechnique.fr/wp-content/uploads/2018/06/DS3-342.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Nonconvex Variance Reduced Optimization with Arbitrary Sampling&lt;/strong&gt;&lt;/a&gt; based on our paper of the same title, joint work with my supervisor &lt;a href=&#34;http://www.maths.ed.ac.uk/~prichtar/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peter Richtárik&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Update
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;My poster was awarded as  &lt;a href=&#34;http://www.ds3-datascience-polytechnique.fr/posters/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;$\text{the Best DS}^3\text{poster}$&lt;/strong&gt;&lt;/a&gt; with $500$ Euros cash prize. Only &lt;strong&gt;2&lt;/strong&gt; posters out of a total &lt;strong&gt;170&lt;/strong&gt; received the award!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exponea AI Internship</title>
+      <link>https://samuelhorvath.github.io/post/exponea/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://samuelhorvath.github.io/post/exponea/</guid>
+      <description>&lt;p&gt;I am joining &lt;a href=&#34;https://exponea.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exponea&lt;/a&gt; as AI Intern for Summer 2018. I will join their Recommendation Team, where I will work on Sorting and Ranking Project for a personalized recommendation for e-commerce.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
